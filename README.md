@@ -13,8 +13,6 @@ The platform enables users across the United States to:
 
 The application is built using Django for the backend, Express.js and MongoDB for dealership and review APIs, and React for the frontend interface. The system is containerized using Docker and deployed with Kubernetes, ensuring scalability and flexibility across cloud platforms.
 
----
-
 ## Project Phases
 
 ### 1. **Static Pages & Django Setup**
@@ -66,8 +64,6 @@ The application is built using Django for the backend, Express.js and MongoDB fo
 * Write Kubernetes manifests for deployments and services
 * Deploy and manage the application using Kubernetes on IBM Code Engine or other platforms
 
----
-
 ## Technologies Used
 
 * **Backend**: Django, Express.js, MongoDB
@@ -75,8 +71,6 @@ The application is built using Django for the backend, Express.js and MongoDB fo
 * **APIs**: RESTful endpoints for dealerships and reviews
 * **DevOps**: Docker, Kubernetes, GitHub Actions
 * **Other Tools**: SQLite, dotenv, gunicorn
-
----
 
 ## Getting Started
 
@@ -109,8 +103,6 @@ $ cd frontend
 $ npm install
 $ npm start
 ```
-
----
 
 ## License
 
