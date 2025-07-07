@@ -108,8 +108,6 @@ $ npm start
 
 This project is part of the IBM Full Stack Software Developer Capstone Course and is intended for educational purposes.
 
----
-
 ## Authors
 
 * czhao-dev
