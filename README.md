@@ -110,5 +110,5 @@ This project is part of the IBM Full Stack Software Developer Capstone Course an
 
 ## Authors
 
-* czhao-dev
+* czhao-dev (Lead Developer)
 * IBM Skills Network Capstone Team
